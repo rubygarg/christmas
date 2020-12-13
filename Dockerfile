@@ -8,4 +8,4 @@ RUN unzip next-level.zip
 RUN cp -rvf templatemo_532_next_level/*
 RUN rm -rf templatemo_532_next_level next-level.zip
 CMD[*/usr/sbin/httpd","-D","FOREGROUND"]
-EXPOSE 80
+EXPOSE 80 
