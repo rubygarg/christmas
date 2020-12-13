@@ -1,0 +1,24 @@
+profile
+
+how patching works
+
+yum list updates
+==
+
+git pull - approach
+git fetch - difference
+
+-- run levels
+mostly used.
+
+--kernel , how communicate,
+
+diff between bash, sh and ksh
+
+-- configration tool
+--
+ansible , architecture
+ssh - 20 and 22
+can we change port ( 22) - yes over syfact module with -v
+ansible modules.
+
